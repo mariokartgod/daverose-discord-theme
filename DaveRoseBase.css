@@ -854,7 +854,7 @@
 }
 
 [class~=create-guild-container] [class~=create-guild] [class~=guild-form] [class~=region-select]:hover [class~=region-select-inner] {
-    border-right-color: #25ace8;
+    border-right-color: #b536da;
 }
 
 [class~=guilds-wrapper] [class~=guilds] [class~=guild]:first-of-type {
@@ -870,7 +870,7 @@
 }
 
 [class~=create-guild-container] [class~=create-guild] [class~=guild-form] [class~=region-select]:hover [class~=region-select-inner] {
-    border-top-color: #25ace8;
+    border-top-color: #b536da;
 }
 
 [class~=guilds-wrapper] [class~=guilds] [class~=guild]:first-of-type {
@@ -957,7 +957,7 @@
 }
 
 [class~=create-guild-container] [class~=create-guild] [class~=guild-form] [class~=region-select]:hover button {
-    border-left-color: #25ace8;
+    border-left-color: #b536da;
 }
 
 [class~=guild-channels] [class~=channel]:not([class~=selected]):before {
@@ -998,7 +998,7 @@
 }
 
 [class~=messages] a {
-    color: #25ace8 !important;
+    color: #e00707 !important;
 }
 
 [class~=guilds-add] {
@@ -1088,7 +1088,7 @@
 }
 
 [class~=guilds-wrapper] [class~=guilds] [class~=guild][class~=active]:first-of-type [class~=guild-inner] {
-    background: #25ace8 !important;
+    background: #b536da !important;
 }
 
 #friends,
@@ -1295,7 +1295,7 @@
 }
 
 [class~=create-guild-container] [class~=create-guild] [class~=guild-form] [class~=region-select]:hover button {
-    border-right-color: #25ace8;
+    border-right-color: #b536da;
 }
 
 [class~=container-iksrDt] [class~=status] {
@@ -3448,7 +3448,7 @@
 }
 
 .guild-channels .channel-text.unread:not(.selected):not(.channel-muted) a {
-    font-weight: normal;
+    font-weight: bold;
 }
 
 .guild-channels header h2 {
