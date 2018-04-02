@@ -9,7 +9,7 @@ dave and rose love each other so much i had to make a discord theme for them. th
 ## FAQ
 
 ####  Q: *Where is the BetterDiscord Theme folder located?*
-   - Usually it is installed in ` %AppData%\BetterDiscord\themes`, however for a custom installtion, the location can be found by going to User Settings in Discord > Themes > Open Theme Folder.
+   - Usually it is installed in ` %AppData%\BetterDiscord\themes`, however for a custom installation, the location can be found by going to User Settings in Discord > Themes > Open Theme Folder.
 
 ####  Q: *I'm still not sure on how to install this*
   - Here is a video that goes through the steps for [downloading](https://www.youtube.com/watch?v=1ML5_F-n5iw) and [installing.](https://www.youtube.com/watch?v=R-aZTjHWRZc)
