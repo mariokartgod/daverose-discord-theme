@@ -14,7 +14,7 @@
 }
 
 [class~=create-guild-container] [class~=action][class~=create]:hover [class~=btn-primary] {
-    background-color: #1d6586 !important;
+    background-color: #b536da !important;
 }
 
 .create-guild-container .form-actions .btn-default {
@@ -1860,7 +1860,7 @@
 }
 
 .channel-textarea-guard button {
-    background: #1d6586 !important;
+    background: #b536da !important;
 }
 
 [class~=private-channels] [class~=channel][class~=selected]:before {
@@ -3724,7 +3724,7 @@
 }
 
 [class~=user-settings-modal] a {
-    color: #1d6586;
+    color: #b536da;
 }
 
 [class~=channel-textarea-inner],
@@ -3779,7 +3779,7 @@
 }
 
 [class~=tab-bar][class~=SIDE] [class~=tab-bar-item]:before {
-    border-left-color: #1d6586;
+    border-left-color: #b536da;
 }
 
 [class~=private-channels] [class~=status] {
@@ -3799,7 +3799,7 @@
 }
 
 [class~=tab-bar][class~=SIDE] [class~=tab-bar-item]:before {
-    border-bottom-color: #1d6586;
+    border-bottom-color: #b536da;
 }
 
 [class~=message-group][class~=compact] [class~=timestamp] {
@@ -3835,11 +3835,11 @@
 }
 
 [class~=add-friend-popout] [class~=btn]:disabled {
-    background-color: #1d6586 !important;
+    background-color: #b536da !important;
 }
 
 [class~=tab-bar][class~=SIDE] [class~=tab-bar-item]:before {
-    border-right-color: #1d6586;
+    border-right-color: #b536da;
 }
 
 #pubs-header input {
@@ -3847,7 +3847,7 @@
 }
 
 [class~=tab-bar][class~=SIDE] [class~=tab-bar-item]:before {
-    border-top-color: #1d6586;
+    border-top-color: #b536da;
 }
 
 [class~=private-channels] [class~=status] {
@@ -3951,11 +3951,11 @@
 }
 
 #permissions [class~=permissions-helpdesk]:hover {
-    color: #1d6586;
+    color: #b536da;
 }
 
 [class~=channel-members] [class~=invite-btn] {
-    background: #1d6586;
+    background: #b536da;
 }
 
 [class~=channel-members] [class~=invite-btn]:hover {
@@ -4098,11 +4098,11 @@
 }
 
 [class~=tooltip][class~=tooltip-right]:after {
-    border-right-color: #1d6586;
+    border-right-color: #b536da;
 }
 
 .tooltip.tooltip-top:after {
-    border-top-color: #1d6586;
+    border-top-color: #b536da;
 }
 
 [class~=user-popout] [class~=body] {
@@ -4140,7 +4140,7 @@
 }
 
 .tooltip.tooltip-bottom:after {
-    border-bottom-color: #1d6586;
+    border-bottom-color: #b536da;
 }
 
 [class~=tab-bar][class~=SIDE] [class~=tab-bar-item][class~=selected]:before {
@@ -4204,7 +4204,7 @@
 }
 
 #user-profile-modal [class~=btn]:hover {
-    background: #1d6586;
+    background: #b536da;
 }
 
 .messages .markup .highlight:hover {
@@ -4455,7 +4455,7 @@
 }
 
 [class~=form] [class~=btn-primary] {
-    background-color: #1d6586;
+    background-color: #b536da;
 }
 
 [class~=popout] header {
@@ -4489,7 +4489,7 @@
 }
 
 .private-channels .channel:hover:not(.selected) .icon-friends {
-    background-color: #1d6586 !important;
+    background-color: #b536da !important;
 }
 
 #bda-qem {
@@ -4613,7 +4613,7 @@
 }
 
 .avatar-uploader a:hover {
-    color: #1d6586;
+    color: #b536da;
 }
 
 [class~=form] [class~=control-group] input[type=email],
@@ -4672,7 +4672,7 @@
 }
 
 [class~=radio]:hover span:after {
-    background: #1d6586;
+    background: #b536da;
 }
 
 [class~=form] [class~=Select-control],
@@ -4754,7 +4754,7 @@
 }
 
 .user-popout .user-popout-options .btn {
-    background-color: #1d6586;
+    background-color: #b536da;
 }
 
 [class~=form] [class~=Select-control] {
@@ -4904,7 +4904,7 @@
 }*/
 
 .user-popout .user-popout-options .btn {
-    border-left-color: #1d6586;
+    border-left-color: #b536da;
 }
 
 [class~=form] [class~=Select-option] {
@@ -4942,7 +4942,7 @@
 }
 
 .user-popout .user-popout-options .btn {
-    border-bottom-color: #1d6586;
+    border-bottom-color: #b536da;
 }
 
 [class~=user-popout] [class~=user-popout-options] [class~=btn]:hover,
@@ -4964,7 +4964,7 @@
 }
 
 .user-popout .user-popout-options .btn {
-    border-right-color: #1d6586;
+    border-right-color: #b536da;
 }
 
 [class~=form] [class~=Select-option] {
@@ -5050,7 +5050,7 @@
 }
 
 .user-popout .user-popout-options .btn {
-    border-top-color: #1d6586;
+    border-top-color: #b536da;
 }
 
 .bd-g-table textarea {
@@ -5084,7 +5084,7 @@
 }
 
 [class~=tooltip] {
-    background: #1d6586;
+    background: #b536da;
 }
 
 [class~=form] [class~=control-group] textarea {
@@ -5391,7 +5391,7 @@
 }
 
 [class~=btn-help]:hover {
-    background: #1d6586;
+    background: #b536da;
 }
 
 #user-profile-modal [class~=tab-bar-container] {
@@ -5867,7 +5867,7 @@
 }
 
 .popout.popout-bottom header:before {
-    border-bottom-color: #1d6586;
+    border-bottom-color: #b536da;
 }
 
 .Select-control {
@@ -5896,7 +5896,7 @@
 }
 
 [class~=user-settings-modal] [class~=voice-settings] [class~=reset-voice-settings] {
-    color: #1d6586;
+    color: #b536da;
 }
 
 [class~=bda-slist] [class~=bda-description] {
@@ -5994,7 +5994,7 @@
 }
 
 [class~=server-info] button {
-    background-color: #1d6586 !important;
+    background-color: #b536da !important;
 }
 
 .Select-menu-outer,
@@ -6268,7 +6268,7 @@
 }
 
 [class~=popout-menu] [class~=popout-menu-item]:hover {
-    background-color: #1d6586 !important;
+    background-color: #b536da !important;
 }
 
 [class~=guild-settings-modal-members] {
@@ -6482,7 +6482,7 @@
 }
 
 [class~=user-settings-modal] [class~=voice-settings] [class~=reset-voice-settings]:hover {
-    color: #1d6586;
+    color: #b536da;
 }
 
 [class~=user-settings-modal-games] [class~=games-table] [class~=games-row] [class~=item-game] [class~=game-name],
@@ -6996,7 +6996,7 @@
 }
 
 [class~=guild-settings-modal-members] [class~=guild-settings-modal-members-footer] a:hover {
-    color: #1d6586;
+    color: #b536da;
 }
 
 [class~=emoji-picker] {
@@ -7213,7 +7213,7 @@
 }
 
 #settings-roles [class~=roles] li:hover:before {
-    background: #1d6586;
+    background: #b536da;
 }
 
 #bda-qem-twitch-container [class~=scroller]::-webkit-scrollbar-track {
