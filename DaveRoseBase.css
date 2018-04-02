@@ -155,7 +155,7 @@
 }
 
 [class~=guilds-wrapper] [class~=guilds] [class~=guild] [class~=guild-inner]:hover {
-    background: #1d6586 !important;
+    background: #700C8D !important;
 }
 
 [class~=scroller-wrap] [class~=scroller]::-webkit-scrollbar-thumb {
@@ -190,9 +190,9 @@
     border-left-width: .010416667in;
 }
 
-[class~=guilds-wrapper] [class~=guilds] [class~=guild][class~=unread]::before {
+/*[class~=guilds-wrapper] [class~=guilds] [class~=guild][class~=unread]::before {
     left: -1.875pt;
-}
+}*/
 
 #rtc-connection {
     padding-left: 1.125pc !important;
@@ -222,10 +222,9 @@
     border-left-color: rgba(255, 255, 255, 0) !important;
 }
 
-[class~=guilds-wrapper] [class~=guilds] [class~=guild][class~=unread]::before {
+/*[class~=guilds-wrapper] [class~=guilds] [class~=guild][class~=unread]::before {
     top: .1875in;
-}
-
+}*/
 .create-guild-container .form-actions .btn-default {
     border-top-color: currentColor;
 }
@@ -254,9 +253,9 @@
     border-right-color: rgba(255, 255, 255, 0) !important;
 }
 
-[class~=guilds-wrapper] [class~=guilds] [class~=guild][class~=unread]::before {
+/*[class~=guilds-wrapper] [class~=guilds] [class~=guild][class~=unread]::before {
     z-index: -1;
-}
+}*/
 
 [class~=guild-channels] [class~=channel-text] a {
     padding-top: .083333333in;
@@ -2817,9 +2816,9 @@
     border-bottom-color: #36393f;
 }
 
-[class~=guilds-wrapper] [class~=guilds] [class~=guild][class~=unread]:before {
+/*[class~=guilds-wrapper] [class~=guilds] [class~=guild][class~=unread]:before {
     border-radius: 50%;
-}
+}*/
 
 .container-3lnMWU {
     border-image: none;
@@ -2842,9 +2841,9 @@
     background: rgba(0, 0, 0, .85) !important;
 }
 
-[class~=guilds-wrapper] [class~=guilds] [class~=guild][class~=unread]:before {
+/*[class~=guilds-wrapper] [class~=guilds] [class~=guild][class~=unread]:before {
     background: #8a8e94;
-}
+}*/
 
 #bda-qem-favourite-container {
     border-left-color: rgba(255, 255, 255, .1) !important;
@@ -4713,9 +4712,9 @@
     background: rgba(0, 0, 0, .5);
 }
 
-[class~=bd-minimal] [class~=guilds-wrapper] [class~=guilds] [class~=guild][class~=unread]:before {
+/*[class~=bd-minimal] [class~=guilds-wrapper] [class~=guilds] [class~=guild][class~=unread]:before {
     height: .625pc;
-}
+}*/
 
 [class~=slider-bar-fill] {
     background-color: #25ace8;
@@ -4900,9 +4899,9 @@
     border-top-style: solid;
 }
 
-[class~=bd-minimal] [class~=guilds-wrapper] [class~=guilds] [class~=guild][class~=unread]:before {
+/*[class~=bd-minimal] [class~=guilds-wrapper] [class~=guilds] [class~=guild][class~=unread]:before {
     margin-top: -.052083333in;
-}
+}*/
 
 .user-popout .user-popout-options .btn {
     border-left-color: #1d6586;
