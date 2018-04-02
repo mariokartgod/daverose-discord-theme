@@ -2302,6 +2302,7 @@
 .nameUnreadText-1pxldj,
 .nameUnreadVoice-QK4gxH {
     color: #72767d;
+    font-weight: bold;
 }
 
 [class~=search-results-wrap] [class~=search-header],
