@@ -16,3 +16,5 @@ dave and rose love each other so much i had to make a discord theme for them. th
 ## Notes
 You must have **Dark** theme selected in Discord for this theme to work.
 This theme is **NOT** minimal mode compatible.
+## Preview
+![alt text](https://i.imgur.com/wAzvwXo.png)
