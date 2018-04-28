@@ -7545,7 +7545,7 @@ textarea {
 .search-bar.search-bar-light,
 .emojiPicker-3m1S-j .scroller-3vODG7 .emojiItem-109bjA.selected-39BZ4S,
 .theme-dark .members-1998pB{
-  background: transparent !important;
+  background: rgba(0, 0, 0, 0.7) !important;
 }
 .theme-dark .card-2WxYqG {
     background-color: rgba(54, 57, 63, 0.3)!important;
