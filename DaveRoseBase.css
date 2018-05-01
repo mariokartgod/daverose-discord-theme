@@ -7545,11 +7545,11 @@ textarea {
 .search-bar.search-bar-light,
 .emojiPicker-3m1S-j .scroller-3vODG7 .emojiItem-109bjA.selected-39BZ4S,
 .theme-dark .members-1998pB{
-  background-color: rgba(0, 0, 0, 0.7) !important;
+  background: transparent !important;
 }
 .theme-dark .card-2WxYqG {
     background-color: rgba(54, 57, 63, 0.3)!important;
 }
 .theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ, .typeWindows-15E0Ys {
-    background: rgba(0, 0, 0, 0.7) !important;
+    background-color: rgba(0, 0, 0, 0.7) !important;
 }
