@@ -15,7 +15,7 @@
 
 
 /*THIS CHANGES THE COLOR OF THE UNREAD NOTIFICATION - https://i.imgur.com/ZNds6nn.png */
-.guilds-wrapper .guilds .guild.unread:not(.selected):before,
+.guildsWrapper-5TJh6A .guilds .guild.unread-qLkInr:not(.selected):before,
 .guild-channels .channel-text.unread:not(.selected):not(.channel-muted):before {
     background: #b536da;    /*change this to any hex code you want*/
 }
@@ -29,8 +29,9 @@
 
 
 
-/*THIS CHANGES THE COLOR OF THE UNREAD NOTIFICATION FOR A TEXT CHANNEL - https://i.imgur.com/49JPciq.png */
-[class~=unread-23Kvxk] {
+/*THIS CHANGES THE COLOR OF THE 
+NOTIFICATION FOR A TEXT CHANNEL - https://i.imgur.com/49JPciq.png */
+[class~=unread-1Dp-OI] {
     background-color: #e00707;
 }
 
