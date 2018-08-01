@@ -193,7 +193,7 @@
     border-left-width: .010416667in;
 }
 
-[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild][class~=unread]::before {
+[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild][class~=unread-qLkInr]::before {
     left: -1.875pt;
 }
 
@@ -225,7 +225,7 @@
     border-left-color: rgba(255, 255, 255, 0) !important;
 }
 
-[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild][class~=unread]::before {
+[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild][class~=unread-qLkInr]::before {
     top: .1875in;
 }
 .create-guild-container .form-actions .btn-default {
@@ -256,7 +256,7 @@
     border-right-color: rgba(255, 255, 255, 0) !important;
 }
 
-[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild][class~=unread]::before {
+[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild][class~=unread-qLkInr]::before {
     z-index: -1;
 }
 
@@ -2122,7 +2122,7 @@
     background: transparent !important;
 }
 
-[class~=unread-23Kvxk] {
+[class~=unread-1Dp-OI] {
     position: absolute;
 }
 
@@ -2170,7 +2170,7 @@
     border-left-style: none !important;
 }
 
-[class~=unread-23Kvxk] {
+[class~=unread-1Dp-OI] {
     height: .083333333in;
 }
 
@@ -2178,11 +2178,11 @@
     background-color: #151515 !important;
 }
 
-.guildsWrapper-5TJh6A .guilds .guild.unread:before {
+.guildsWrapper-5TJh6A .guilds .guild.unread-qLkInr:before {
     content: " ";
 }
 
-.guildsWrapper-5TJh6A .guilds .guild.unread:before {
+.guildsWrapper-5TJh6A .guilds .guild.unread-qLkInr:before {
     width: 3.375pc;
 }
 
@@ -2194,7 +2194,7 @@
     border-bottom-style: none !important;
 }
 
-[class~=unread-23Kvxk] {
+[class~=unread-1Dp-OI] {
     width: 4px;
 }
 
@@ -2210,7 +2210,7 @@
     border-right-width: .0625pc !important;
 }
 
-[class~=unread-23Kvxk] {
+[class~=unread-1Dp-OI] {
     border-radius: 0 6px 4.5pt 0;
 }
 
@@ -2222,7 +2222,7 @@
     border-left-color: currentColor !important;
 }
 
-[class~=unread-23Kvxk] {
+[class~=unread-1Dp-OI] {
     top: 50%;
 }
 
@@ -2230,7 +2230,7 @@
     border-bottom-color: currentColor !important;
 }
 
-[class~=unread-23Kvxk] {
+[class~=unread-1Dp-OI] {
     left: 0;
 }
 
@@ -2238,7 +2238,7 @@
     border-right-style: solid !important;
 }
 
-[class~=unread-23Kvxk] {
+[class~=unread-1Dp-OI] {
     margin-top: -3pt;
 }
 
