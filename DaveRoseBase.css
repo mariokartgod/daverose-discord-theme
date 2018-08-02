@@ -52,7 +52,7 @@
     -webkit-filter: opacity(.9) invert();
 }
 
-[class~=callout-backdrop][class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild]:first-of-type:hover {
+[class~=callout-backdrop][class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild-1EfMGQ]:first-of-type:hover {
     border-radius: 100% !important;
 }
 
@@ -61,7 +61,7 @@
 }
 
 [class~=create-guild-container] [class~=create-or-join] [class~=actions] [class~=or],
-[class~=create-guild-container] [class~=create-guild] [class~=guild-form] [class~=region-select] button {
+[class~=create-guild-container] [class~=create-guild-1EfMGQ] [class~=guild-form] [class~=region-select] button {
     color: #000;
 }
 
@@ -157,7 +157,7 @@
     background: transparent !important;
 }
 
-[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild] [class~=guild-inner]:hover {
+[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild-1EfMGQ] [class~=guild-inner]:hover {
     background: #700C8D !important;
 }
 
@@ -193,7 +193,7 @@
     border-left-width: .010416667in;
 }
 
-[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild][class~=unread-qLkInr]::before {
+[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild-1EfMGQ][class~=unread-qLkInr]::before {
     left: -1.875pt;
 }
 
@@ -225,7 +225,7 @@
     border-left-color: rgba(255, 255, 255, 0) !important;
 }
 
-[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild][class~=unread-qLkInr]::before {
+[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild-1EfMGQ][class~=unread-qLkInr]::before {
     top: .1875in;
 }
 .create-guild-container .form-actions .btn-default {
@@ -256,7 +256,7 @@
     border-right-color: rgba(255, 255, 255, 0) !important;
 }
 
-[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild][class~=unread-qLkInr]::before {
+[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild-1EfMGQ][class~=unread-qLkInr]::before {
     z-index: -1;
 }
 
@@ -340,7 +340,7 @@
     border-right-color: #25ace8;
 }
 
-[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild][class~=selected]:before {
+[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild-1EfMGQ][class~=selected]:before {
     display: none;
 }
 
@@ -364,7 +364,7 @@
     border-top-color: #25ace8;
 }
 
-[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild]:first-child,
+[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild-1EfMGQ]:first-child,
 [class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=friends-online],
 .guildsWrapper-5TJh6A .guilds .guild-separator {
     position: relative;
@@ -375,12 +375,12 @@
 }
 
 /*
-[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild] {
+[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild-1EfMGQ] {
     margin-left: .5pc;
 }
 */
 
-[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild] {
+[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild-1EfMGQ] {
     margin-top: 6pt;
 }
 
@@ -405,7 +405,7 @@
     border-bottom-color: rgba(255, 255, 255, 0) !important;
 }
 
-[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild]:first-child {
+[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild-1EfMGQ]:first-child {
     left: 0;
 }
 
@@ -426,7 +426,7 @@
 }
 
 /*
-[class~=] [class~=guilds] [class~=guild]:first-child,
+[class~=] [class~=guilds] [class~=guild-1EfMGQ]:first-child,
 [class~=] [class~=guilds] [class~=friends-online] {
     margin-left: auto;
 }
@@ -453,7 +453,7 @@
     border-image: none !important;
 }
 
-[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild] [class~=guild-inner] a {
+[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild-1EfMGQ] [class~=guild-inner] a {
     width: 37.5pt;
 }
 
@@ -492,7 +492,7 @@
     background: rgba(0, 0, 0, .4);
 }
 
-[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild]:first-child,
+[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild-1EfMGQ]:first-child,
 [class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=friends-online] {
     margin-bottom: -10px;
 }
@@ -509,7 +509,7 @@
     border-right-width: .020833333in !important;
 }
 
-[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild]:first-child {
+[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild-1EfMGQ]:first-child {
     margin-right: auto;
 }
 
@@ -533,7 +533,7 @@
     background: rgba(0, 0, 0, .1);
 }
 
-[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild] [class~=guild-inner] a {
+[class~=guildsWrapper-5TJh6A] [class~=guilds] [class~=guild-1EfMGQ] [class~=guild-inner] a {
     height: 3.125pc;
 }
 
