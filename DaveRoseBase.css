@@ -7553,3 +7553,17 @@ textarea {
 .theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ, .typeWindows-15E0Ys {
     background-color: rgba(0, 0, 0, 0.7) !important;
 }
+.app .typing-2GQL18/*here is where it says typing...*/
+    {background: transparent !important;}
+
+ .app .chat-3bRxxu form /*around the text box*/{
+    Background:rgba(0,0,0,0.6);    
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+.app .inner-zqa7da /*here is where the textbox is*/ {
+    background: rgba(0,0,0,.6);
+    margin-left: 20px;
+    margin-right: 20px;
+}
