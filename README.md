@@ -1,5 +1,5 @@
 # daverose-discord-theme
-dave and rose love each other so much i had to make a discord theme for them. this theme uses [WhatDaPunk's NotAnotherAnimeTheme](https://github.com/WhatDaPuck/NotAnotherAnimeTheme) as a base. 
+dave and rose love each other so much i had to make a discord theme for them. this is a rewritten, and uses [AltenGD's Frosted Glass Rewrite theme](https://github.com/AltenGD/Altens-betterdiscord-Themes-Plugins#frosted-glass-rewrite) as a base.
 ## Installation
 1. Ensure [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases/latest) is installed.
 2. Open the [theme code](https://raw.githubusercontent.com/mariokartgod/daverose-discord-theme/master/DaveRose.theme.css) in a new browser tab
@@ -15,6 +15,5 @@ dave and rose love each other so much i had to make a discord theme for them. th
   - Here is a video that goes through the steps for [downloading](https://www.youtube.com/watch?v=1ML5_F-n5iw) and [installing.](https://www.youtube.com/watch?v=R-aZTjHWRZc)
 ## Notes
 You must have **Dark** theme selected in Discord for this theme to work.
-This theme is **NOT** minimal mode compatible.
 ## Preview
 ![alt text](https://i.imgur.com/wAzvwXo.png)
